@@ -1,6 +1,0 @@
-465, Hotel Tequendama 2.0, 7798695, 5, Centro
-784, Happy Days, 775986, 3, Chapinero
-321, Hotel Ut Prime, 779845, 5, Calle 100
-464, Blue Floor, 3214561, 4, Bosa
-785, The class of slepp, 4567891, 5, Heroes
-256, Sky of floor, 1234567, 3, Monserrate
