@@ -11,7 +11,9 @@ Importamos el documento de texto de donde vamos a extraer los datos, y damos ins
 filename = 'Hoteles.txt'
 Hoteles =[]
 a = 0
-
+"""
+Validamos el nombre del usuario, y solicitamos que quiere buscar, Lista de hoteles, lista de habitaciones y consultar reservas
+"""
 nombre=input("Buen Dia, ingrese su nombre por favor\n")
 
 user = input("Estimad@ "+nombre+" si quieres ver los hoteles disponibles ingresa el numero 1\n"
