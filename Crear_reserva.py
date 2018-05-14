@@ -12,11 +12,15 @@ def Crear_reserva(hora,dia,mes,anio,IdHab):
     :return: Crear una reserva validada
     """
 
+ """Creamos un archivos txt para enviar informacion allí"""
+
 archivo = open("Reservas.txt","a")
 reserva=[]
 
 nombre=input("Buen dia, por favor ingresa tu nombre, gracias\n")
 print("Estimado usuario "+nombre+" Para realizar una reserva ingresa correctamente los suiguientes datos por favor\n")
+
+"""Creamos los campos para llenar en el archivo txt"""
 
 IdHab=str(input("Ingresa IdHab de reserva:\n"))
 reserva.append(IdHab)
