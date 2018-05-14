@@ -1,0 +1,15 @@
+465, Hotel Tequendama, 7798695, 5, Centro
+784, Happy Nigths, 775986, 3, Chapinero
+321, Hotel PrimeTime, 779845, 5, Calle 100
+464, BlueBed, 3214561, 4, Bosa
+785, The class of slepp, 4567891, 5, Heroes
+256, Sky, 1234567, 3, Monserrate
+125, Hotel Monserrate, 7798545, 5, Monserrate
+548, Hotel Letoh, 7775544, 4, Normandia
+945, Hotel Fivstars, 5557788, 5, Restrepo
+154, Hotel Singapur, 2549865, 3, Madrid
+654, Sleep Time, 5486589, 2, La Estancia
+568, Hotel Las Estrellas, 4, Nogal
+954, The Hotel, 3, Egipto
+504, Hotel Maravilla, 4, Candelaria
+950, Hotel La Villa, 5, Villao
